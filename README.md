@@ -67,8 +67,8 @@ Provides a list of the user's available devices along with each device's most re
 
 | Parameter      | Value               | Notes                             |
 |----------------|---------------------|-----------------------------------|
-| apiKey         | {{api_key}}         | [Authentication](#Authentication) |
-| applicationKey | {{application_key}} | [Authentication](#Authentication) |          
+| apiKey         | {{api_key}}         | [Authentication](#authentication) |
+| applicationKey | {{application_key}} | [Authentication](#authentication) |          
 
 ## GET: Device Data
 
@@ -82,7 +82,7 @@ Fetch data for a given device. Data is stored in 5 or 30 minute increments.
 
 | Parameter      | Value / default     | Notes                                               |
 |----------------|---------------------|-----------------------------------------------------|
-| apiKey         | {{api_key}}         | [Authentication](#Authentication)                   |
-| applicationKey | {{application_key}} | [Authentication](#Authentication)                   |
+| apiKey         | {{api_key}}         | [Authentication](#authentication)                   |
+| applicationKey | {{application_key}} | [Authentication](#authentication)                   |
 | limit          | 1                   | max = 288                                           |
 | end_date       | 1691587233          | [epoch in milliseconds](https://currentmillis.com/) |
