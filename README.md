@@ -58,8 +58,8 @@ If you need up-to-the-minute data please use the `/devices` endpoint or _forthco
 
 ## Other Resources
 
-- API Wiki - [https://github.com/ambient-weather/api-docs/wiki]()
-- Device Data Specifications: [https://github.com/ambient-weather/api-docs/wiki/Device-Data-Specs]()
+- API Wiki - [https://github.com/ambient-weather/api-docs/wiki](https://github.com/ambient-weather/api-docs/wiki)
+- Device Data Specifications: [https://github.com/ambient-weather/api-docs/wiki/Device-Data-Specs](https://github.com/avryhof/ambient_api_postman_collection/blob/main)
 - My other Ambient Weather Code
     - [Python Library](https://github.com/avryhof/ambient_api) - ambient_api
     - [Ambient APRS Python Library](https://github.com/avryhof/ambient_aprs) - ambient_aprs
@@ -85,7 +85,7 @@ Provides a list of the user's available devices along with each device's most re
 
 Fetch data for a given device. Data is stored in 5 or 30 minute increments.
 
-- A list of all possible fields is here: https://github.com/ambient-weather/api-docs/wiki/Device-Data-Specs
+- A list of all possible fields is here: [https://github.com/ambient-weather/api-docs/wiki/Device-Data-Specs](https://github.com/ambient-weather/api-docs/wiki/Device-Data-Specs)
 
 #### Query Params
 
