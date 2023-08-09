@@ -13,13 +13,13 @@ I have omitted the connector library list. You can generate code for just about 
 Two API Keys are required for all REST API requests:
 
 - `applicationKey` - identifies the developer / application. To create an application key please login to your
-  AmbientWeather.net account
-  page ([https://ambientweather.net/account]())  ![get an application key on your account page](./application_key.jpg "getting an application key")
+  AmbientWeather.net [account page](https://ambientweather.net/account) ![get an application key on your account page](./application_key.jpg "getting an application key")
 
 - `apiKey` - grants access to past/present data for a given user's devices. A typical consumer-facing application will
-  initially ask the user to create an `apiKey` on their AmbientWeather.net account
-  page ([https://ambientweather.net/account]()) and paste it into the app. Developers for personal or in-house apps will
-  also need to create an apiKey on their own account page.
+  initially ask the user to create an `apiKey` on their
+  AmbientWeather.net [account page](https://ambientweather.net/account) and paste it into the app.
+
+  _Developers for personal or in-house apps will also need to create an apiKey on their own account page._
 
 ## Rate Limiting
 
