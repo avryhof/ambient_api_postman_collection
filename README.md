@@ -59,7 +59,7 @@ If you need up-to-the-minute data please use the `/devices` endpoint or _forthco
 ## Other Resources
 
 - API Wiki - [https://github.com/ambient-weather/api-docs/wiki](https://github.com/ambient-weather/api-docs/wiki)
-- Device Data Specifications: [https://github.com/ambient-weather/api-docs/wiki/Device-Data-Specs](https://github.com/avryhof/ambient_api_postman_collection/blob/main)
+- Device Data Specifications: [https://github.com/ambient-weather/api-docs/wiki/Device-Data-Specs](https://github.com/ambient-weather/api-docs/wiki/Device-Data-Specs)
 - My other Ambient Weather Code
     - [Python Library](https://github.com/avryhof/ambient_api) - ambient_api
     - [Ambient APRS Python Library](https://github.com/avryhof/ambient_aprs) - ambient_aprs
