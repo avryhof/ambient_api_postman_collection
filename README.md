@@ -1,6 +1,6 @@
 # ambient_api_postman_collection
 
-A Postman collection for the Ambient Weather API
+A [Postman](https://www.postman.com/) collection for the Ambient Weather API
 
 ```
    I am not affiliated with Ambient Weather. 
@@ -21,7 +21,8 @@ I have omitted the connector library list. You can generate code for just about 
 Two API Keys are required for all REST API requests:
 
 - `applicationKey` - identifies the developer / application. To create an application key please login to your
-  AmbientWeather.net [account page](https://ambientweather.net/account) ![get an application key on your account page](./application_key.jpg "getting an application key")
+  AmbientWeather.net [account page](https://ambientweather.net/account) 
+  ![get an application key on your account page](./images/application_key.jpg "getting an application key")
 
 - `apiKey` - grants access to past/present data for a given user's devices. A typical consumer-facing application will
   initially ask the user to create an `apiKey` on their
@@ -94,3 +95,21 @@ Fetch data for a given device. Data is stored in 5 or 30 minute increments.
 | applicationKey | {{application_key}} | [Authentication](#authentication)                   |
 | limit          | 1                   | max = 288                                           |
 | end_date       | 1691587233          | [epoch in milliseconds](https://currentmillis.com/) |
+
+# Make it code for me!
+
+Yes, that's what I said!  
+
+[Postman](https://www.postman.com/) will generate code for you in dozens of languages.
+
+It won't write your whole application for you, but it helps to see how it all works.
+
+1. Choose Code Snippet from the icon bar on the right
+   ![select code snippet](./images/code-1.gif "access code snippet")
+ 
+2. Select a language from the dropdown selector
+   ![choose your language](./images/code-2.gif "select a language")
+ 
+3. Bask in the presence of code that works, but you'll probably want to tweak
+   ![show me the code](./images/code-3.gif "see code")
+
