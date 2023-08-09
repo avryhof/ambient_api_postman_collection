@@ -105,11 +105,14 @@ Yes, that's what I said!
 It won't write your whole application for you, but it helps to see how it all works.
 
 1. Choose Code Snippet from the icon bar on the right
+
    ![select code snippet](./images/code-1.gif "access code snippet")
  
 2. Select a language from the dropdown selector
+
    ![choose your language](./images/code-2.gif "select a language")
  
 3. Bask in the presence of code that works, but you'll probably want to tweak
+
    ![show me the code](./images/code-3.gif "see code")
 
