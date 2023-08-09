@@ -2,6 +2,14 @@
 
 A Postman collection for the Ambient Weather API
 
+```
+   I am not affiliated with Ambient Weather. 
+   I am just an enthusiastic developer who loves to help out. 
+   
+   Some of what you see below is borrowed from the official documentation 
+   (ex: "our servers") and I make no claim to ownership.
+```
+
 # Ambient Weather
 
 ##### This local documentation is a copy of [https://ambientweather.docs.apiary.io/#]() please refer to that link for the most up-to-date information.
