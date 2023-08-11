@@ -10,7 +10,7 @@ A [Postman](https://www.postman.com/) collection for the Ambient Weather API
    (ex: "our servers") and I make no claim to ownership.
 ```
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/13847857-862b126e-bbec-4d19-b7c0-6458c6118f55?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D13847857-862b126e-bbec-4d19-b7c0-6458c6118f55%26entityType%3Dcollection%26workspaceId%3D0a595ed9-d816-4c5b-a675-11263d0c04cb)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/13847857-862b126e-bbec-4d19-b7c0-6458c6118f55?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D13847857-862b126e-bbec-4d19-b7c0-6458c6118f55%26entityType%3Dcollection%26workspaceId%3D0a595ed9-d816-4c5b-a675-11263d0c04cb#?env%5BAmbient%20API%5D=W3sia2V5IjoidXJsIiwidmFsdWUiOiJodHRwczovL2FwaS5hbWJpZW50d2VhdGhlci5uZXQvdjEiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCIsInNlc3Npb25WYWx1ZSI6Imh0dHBzOi8vYXBpLmFtYmllbnR3ZWF0aGVyLm5ldC92MSIsInNlc3Npb25JbmRleCI6MH0seyJrZXkiOiJ7e2FwaV9rZXl9fSIsInZhbHVlIjoiIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6InNlY3JldCIsInNlc3Npb25WYWx1ZSI6IiIsInNlc3Npb25JbmRleCI6MX0seyJrZXkiOiJ7e2FwcGxpY2F0aW9uX2tleX19IiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoic2VjcmV0Iiwic2Vzc2lvblZhbHVlIjoiIiwic2Vzc2lvbkluZGV4IjoyfV0=)
 
 # Ambient Weather
 
