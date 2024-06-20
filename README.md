@@ -70,7 +70,7 @@ If you need up-to-the-minute data please use the `/devices` endpoint or _forthco
 
 ## GET: Devices
 
-- https://api.ambientweather.net/v1/devices/?apiKey={{api_key}}&applicationKey={{application_key}}
+- https://rt.ambientweather.net/v1/devices/?apiKey={{api_key}}&applicationKey={{application_key}}
 
 Provides a list of the user's available devices along with each device's most recent data.
 
@@ -83,7 +83,7 @@ Provides a list of the user's available devices along with each device's most re
 
 ## GET: Device Data
 
-- https://api.ambientweather.net/v1/devices/{{macAddress}}?apiKey={{api_key}}&applicationKey={{application_key}}&limit=1&end_date=1691587233
+- https://rt.ambientweather.net/v1/devices/{{macAddress}}?apiKey={{api_key}}&applicationKey={{application_key}}&limit=1&end_date=1691587233
 
 Fetch data for a given device. Data is stored in 5 or 30 minute increments.
 
@@ -97,6 +97,19 @@ Fetch data for a given device. Data is stored in 5 or 30 minute increments.
 | applicationKey | {{application_key}} | [Authentication](#authentication)                                             |
 | limit          | 1                   | max = 288                                                                     |
 | end_date       | 1691587233          | [epoch in milliseconds](https://currentmillis.com/)  (click for code samples) |
+
+
+# Collection and Environment
+
+The Postman collection can be imported directly into Postman.  No alteration should be necessary.
+
+When you import the environment, you will need to update your ApiKey, applicationKay and MAC Address.
+
+Now you will have entries under Collections and Environments for Ambient Weather.
+
+To use the environment, you will need to select it from the selector in the upper-right of your Postman.
+
+![images/select-environment.png](images/select-environment.png)
 
 # Make it code for me!
 
